@@ -15,27 +15,33 @@ Anyone else's efforts will be much better. )
 power in a small package.  
 Estimated chance of happening: About 1%  - maybe less.  
 
-2 -  Readline/command-history.  A good PD version of this (in C) would be very 
+2 -  The GRUB boot-loader. Again, "just because....".  There is no doubt that 
+GRUB is by far the best, most powerful boot-loader around. However, having a 
+PD workalike of it would still be good. It'd be very useful to study and to 
+include in any PD operating systems.  
+Estimated chance of happening: Almost 0%.    
+
+3 -  Readline/command-history.  A good PD version of this (in C) would be very 
 useful.  
 Estimated chance of happening: Maybe 2%  
 
-3 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
+4 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
 of 9P (including a P.D. one in Python). However, a P.D. version in C would be 
 great to see.   
 Estimated chance of happening: 2%  
 
-4 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
+5 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
 things on the list, this one is **by far** the least likely to happen, unfortunately.  
 What about a P.D. release of the *real* Plan 9? It'd be great to see (and could be a nice 
 tribute to the late Dennis Ritchie), but it's **extremely** unlikely to happen. 
 Estimated chance of happening:  0%.  Zero.  Zilch.  Nada.  I would give this a negative 
 probability if I could.  It's that unlikely. (Sigh...........  If only............... )     
 
-5 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
+6 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
 Haskell implementations, but none are P.D. 
 Estimated chance of happening:  1%  
 
-6 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
+7 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
 for a subset of C) has come along - http://www.t3x.org/subc/index.html  
 Estimated chance of happening (a full C compiler):  Very hard to guess.  
 Now that SubC is here (which could be a very useful base for this) - maybe 20-30%?   
