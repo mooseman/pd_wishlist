@@ -1,0 +1,58 @@
+
+ *****  README - PD wishlist ***** 
+
+ Just a list of a few things that it would be great to have public-domain 
+versions of. 
+ If anyone knows of a PD implementation of one of the things on this list 
+(or if anyone is actually doing one), I'm very keen to hear about it. 
+
+( The only one of the things below that I'm doing *any* work on 
+is a PD readline, and even there, very little work (and poor work at that. 
+Anyone else's efforts will be much better. )   
+
+
+1 -  Git.  "Just because......"  Very nice design, very elegant and has huge 
+power in a small package.  
+Estimated chance of happening: About 1%  - maybe less.  
+
+2 -  Readline/command-history.  A good PD version of this (in C) would be very 
+useful.  
+Estimated chance of happening: Maybe 2%  
+
+3 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
+of 9P (including a P.D. one in Python). However, a P.D. version in C would be 
+great to see.   
+Estimated chance of happening: 2%  
+
+4 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
+things on the list, this one is **by far** the least likely to happen, unfortunately.  
+What about a P.D. release of the *real* Plan 9? It'd be great to see (and could be a nice 
+tribute to the late Dennis Ritchie), but it's **extremely** unlikely to happen. 
+Estimated chance of happening:  0%.  Zero.  Zilch.  Nada.  I would give this a negative 
+probability if I could.  It's that unlikely. (Sigh...........  If only............... )     
+
+5 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
+Haskell implementations, but none are P.D. 
+Estimated chance of happening:  1%  
+
+6 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
+for a subset of C) has come along - http://www.t3x.org/subc/index.html  
+Estimated chance of happening (a full C compiler):  Very hard to guess.  
+Now that SubC is here (which could be a very useful base for this) - maybe 20-30%?   
+
+Let's not forget that there is also the PD C library available! A *huge* amount of 
+work has gone into that over the years. Very many thanks to Martin Baute (who 
+started it's development) and Owen Shepherd (the current maintainer). 
+PDClib is here -  http://pdclib.e43.eu/    
+
+I hope you will support PDClib and SubC. Martin and Owen have put a huge 
+amount of work into PDClib.  
+
+Nils Holm (the author of SubC) has put a huge amount of effort into that too.  
+He has also written a book on it - here's a link to the page about it -  
+http://www.t3x.org/reload/index.html   
+I've bought a copy of the book and it's well worth buying, IMO. 
+ 
+- mooseman    
+
+
