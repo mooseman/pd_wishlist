@@ -22,26 +22,35 @@ include in any PD operating systems.
 Estimated chance of happening: Almost 0%.    
 
 3 -  Readline/command-history.  A good PD version of this (in C) would be very 
-useful.  
+useful.   
 Estimated chance of happening: Maybe 2%  
 
-4 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
+4 -  A PD file-manager.  Yet another category of apps where there is no public-domain 
+version.  
+Estimated chance of happening: Reasonable (especially if pdcurses were used). 
+Maybe 15-20%  
+
+5 - A standalone PD GUI library.  This is one of the more difficult ones to see happening. 
+( There is CGUI out there, but that depends on the non-PD Allegro, so it is not "standalone" ) 
+Estimated chance of happening: *Very* low.  Almost 0%.    
+
+6 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
 of 9P (including a P.D. one in Python). However, a P.D. version in C would be 
 great to see.   
-Estimated chance of happening: 2%  
+Estimated chance of happening: Around 1 or 2%  
 
-5 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
+7 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
 things on the list, this one is **by far** the least likely to happen, unfortunately.  
 What about a P.D. release of the *real* Plan 9? It'd be great to see (and could be a nice 
 tribute to the late Dennis Ritchie), but it's **extremely** unlikely to happen. 
 Estimated chance of happening:  0%.  Zero.  Zilch.  Nada.  I would give this a negative 
 probability if I could.  It's that unlikely. (Sigh...........  If only............... )     
 
-6 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
-Haskell implementations, but none are P.D. 
-Estimated chance of happening:  1%  
+8 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
+Haskell implementations, but none are P.D. This would be a difficult thing to do.  
+Estimated chance of happening:  Very low. No more than 1%.    
 
-7 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
+9 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
 for a subset of C) has come along - http://www.t3x.org/subc/index.html  
 Estimated chance of happening (a full C compiler):  Very hard to guess.  
 Now that SubC is here (which could be a very useful base for this) - maybe 20-30%?   
@@ -73,8 +82,8 @@ if possible. This is obviously a fairly large undertaking, and any assistance wo
 very welcome."  
 
 An ***excellent*** start has been made on this, with a number of utilities 
-already available.  ***You can make a difference*** by helping out! 
-Let's get PD versions of grep and awk out there!  
+already available.  ***People can make a BIG difference*** by helping out
+with this.  Let's get PD versions of grep and awk out there!  
 
 - mooseman    
 
