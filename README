@@ -25,32 +25,37 @@ Estimated chance of happening: Almost 0%.
 useful.   
 Estimated chance of happening: Maybe 2%  
 
-4 -  A PD file-manager.  Yet another category of apps where there is no public-domain 
+4 -  A PD web browser.  There are lots of browsers out there, but no PD ones. 
+Being able to look at the source-code of a PD browser, seeing how the rendering 
+works and much more - all of that would be great.  
+Estimated chance of happening: Low. Probably less than 1%.    
+
+5 -  A PD file-manager.  Yet another category of apps where there is no public-domain 
 version.  
 Estimated chance of happening: Reasonable (especially if pdcurses were used). 
 Maybe 15-20%  
 
-5 - A standalone PD GUI library.  This is one of the more difficult ones to see happening. 
+6 - A standalone PD GUI library.  This is one of the more difficult ones to see happening. 
 ( There is CGUI out there, but that depends on the non-PD Allegro, so it is not "standalone" ) 
 Estimated chance of happening: *Very* low.  Almost 0%.    
 
-6 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
+7 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
 of 9P (including a P.D. one in Python). However, a P.D. version in C would be 
 great to see.   
 Estimated chance of happening: Around 1 or 2%  
 
-7 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
+8 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
 things on the list, this one is **by far** the least likely to happen, unfortunately.  
 What about a P.D. release of the *real* Plan 9? It'd be great to see (and could be a nice 
 tribute to the late Dennis Ritchie), but it's **extremely** unlikely to happen. 
 Estimated chance of happening:  0%.  Zero.  Zilch.  Nada.  I would give this a negative 
 probability if I could.  It's that unlikely. (Sigh...........  If only............... )     
 
-8 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
+9 - Haskell (or a compact-but-powerful subset of it). There are a number of existing 
 Haskell implementations, but none are P.D. This would be a difficult thing to do.  
 Estimated chance of happening:  Very low. No more than 1%.    
 
-9 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
+10 - A PD C compiler. There is some good news in this area.  SubC (a PD compiler 
 for a subset of C) has come along - http://www.t3x.org/subc/index.html  
 Estimated chance of happening (a full C compiler):  Very hard to guess.  
 Now that SubC is here (which could be a very useful base for this) - maybe 20-30%?   
