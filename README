@@ -42,7 +42,9 @@ Estimated chance of happening: *Very* low.  Almost 0%.
 7 -  9P  ( Plan 9's network protocol ).  There are already a number of implementations 
 of 9P (including a P.D. one in Python). However, a P.D. version in C would be 
 great to see.   
-Estimated chance of happening: Around 1 or 2%  
+Estimated chance of happening: (UPDATED) - 100%!  This has now been done by JuEeHa - his code
+is here - https://github.com/JuEeHa/pd9p  
+Very many thanks to him for doing this!   
 
 8 -  Plan 9 itself.  A P.D. workalike of this would take care of item 3!  Anyway, of all the 
 things on the list, this one is **by far** the least likely to happen, unfortunately.  
@@ -65,30 +67,6 @@ work has gone into that over the years. Very many thanks to Martin Baute (who
 started it's development) and Owen Shepherd (the current maintainer). 
 PDClib is here -  http://pdclib.e43.eu/    
 
-I hope you will support PDClib and SubC. Martin and Owen have put a huge 
-amount of work into PDClib.  
-
-Nils Holm (the author of SubC) has put a huge amount of effort into that too.  
-He has also written a book on it - here's a link to the page about it -  
-http://www.t3x.org/reload/index.html   
-I've bought a copy of the book and it's well worth buying, IMO. 
-
-
-Also - I hope you'll support the PDCore project here -  
-http://pdcore.sourceforge.net/#contribute 
-
-From the home page - 
-"The pdcore project aims to produce a POSIX.1-2008 compliant public domain 
-implementation of the core UNIX(tm) file, shell and text manipulation utilities."  
-
-The author says -  "The project aims to implement all of the non 
-development-oriented POSIX.1-2008 shell and utilities, moving on for full coverage 
-if possible. This is obviously a fairly large undertaking, and any assistance would be 
-very welcome."  
-
-An ***excellent*** start has been made on this, with a number of utilities 
-already available.  ***People can make a BIG difference*** by helping out
-with this.  Let's get PD versions of grep and awk out there!  
 
 - mooseman    
 
